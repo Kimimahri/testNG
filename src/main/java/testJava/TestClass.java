@@ -3,7 +3,7 @@ package testJava;
 public class TestClass {
     public static int Hello(){
 
-        return 3;
+        return 4;
     }
 
     public static int Hey(){
