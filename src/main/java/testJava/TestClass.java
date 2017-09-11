@@ -6,4 +6,9 @@ public class TestClass {
         return 4;
     }
 
+    public static int Hey(){
+
+        return 5;
+    }
+
 }
